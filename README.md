@@ -1,4 +1,4 @@
-# لآم
+# Black-Horse
 
 ## Overview
 The E-commerce Management System is a comprehensive platform designed to manage various aspects of an online marketplace. It comprises five applications, each tailored to different user roles and functionalities. This README provides an overview of the API endpoints and functionalities available within each application.
