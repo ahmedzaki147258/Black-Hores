@@ -32,7 +32,6 @@ The Admin Application provides comprehensive control and monitoring capabilities
 - **User Management**: Admins can create and manage products, suppliers, and delivery personnel.
 - **Order Tracking**: Admins can track the status and total costs of orders.
 - **System Monitoring**: Full visibility into system operations and user activities.
-- **Notification**: FCM is used to notify admins about critical system events, such as new user registrations, order cancellations, and system maintenance alerts.
 
 ### 5. Warehouse Application
 The Warehouse Application is designed to manage inventory and related operations. Features include:
@@ -40,7 +39,6 @@ The Warehouse Application is designed to manage inventory and related operations
 - **Inventory Management**: Purchase and store products, record wastage and returns from purchases and sales.
 - **Sales and Employee Management**: Manage sales, add employees, and maintain supplier accounts.
 - **Expense Tracking**: Record fixed and variable expenses related to warehouses, such as rent and utility bills.
-- **Notification**: FCM is utilized to notify warehouse managers about low stock levels, delivery schedules, and other inventory-related updates.
 
 ## Conclusion
 The E-commerce Management System is a robust platform that provides end-to-end management of an online marketplace. From customer interactions and vendor management to delivery logistics and warehouse operations, each application is designed to optimize the efficiency and effectiveness of the e-commerce process, with the added benefit of Firebase Cloud Messaging for seamless communication and notification delivery.
