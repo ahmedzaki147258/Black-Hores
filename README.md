@@ -42,3 +42,6 @@ The Warehouse Application is designed to manage inventory and related operations
 
 ## Conclusion
 The E-commerce Management System is a robust platform that provides end-to-end management of an online marketplace. From customer interactions and vendor management to delivery logistics and warehouse operations, each application is designed to optimize the efficiency and effectiveness of the e-commerce process, with the added benefit of Firebase Cloud Messaging for seamless communication and notification delivery.
+
+
+![324413302-a141172b-5704-46d2-ac7f-a1c232cda1df](https://github.com/ahmedzaki147258/Black-Hores/assets/130254480/57618c6a-e4f8-4450-86a8-a0b2926d5db2)
